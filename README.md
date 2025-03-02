@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **udayanfg@gmail.com**
 
-- 📄 Know about my experiences [https://emerald-lena-81.tiiny.site](https://emerald-lena-81.tiiny.site)
+- 📄 Know about my experiences [My Resume](https://udayan-gaikwad.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
