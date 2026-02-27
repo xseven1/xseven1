@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Udayan Gaikwad</h1>
 <h3 align="center">A Data Scientist in the making with a focus on Machine Learning</h3>
 
-- 🔭 I’m currently working on **Amazon Book Review sentiment analysis**
+- 🔭 I’m currently working on a **Rideshare Demand Forecasting and Surge Optimization project**
 
 - 🌱 I’m currently learning **Large Language Model Development**
 
