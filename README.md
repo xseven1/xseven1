@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Udayan Gaikwad</h1>
-<h3 align="center">An AL/ML Engineer in the making</h3>
+<h3 align="center">An AI/ML Engineer in the making</h3>
 
 - 🔭 I’m currently working on a **Rideshare Demand Forecasting and Surge Optimization project**
 
