@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **udayanfg@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://udayan-gaikwad.tiiny.site)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/udayan-gaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udayan-gaikwad" height="30" width="40" /></a>
