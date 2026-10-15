@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Analysis, Data Visualization, Big Data Technologies, Data Engineering, Time Series Analysis, Recommender Systems, Computer Vision, Data Science Tools and Libraries, Cloud Computing for Data Science, Data Science Project Management, Ethics in Data Science, Feature Engineering, Data Cleaning and Preprocessing.**
 
-- 📫 How to reach me **udayanfg@gmail.com**
+- 📫 How to reach me **udayan.g@myworkprofiles.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
